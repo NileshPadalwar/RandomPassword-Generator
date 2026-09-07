@@ -8,8 +8,6 @@ The application generates a strong random password containing **uppercase letter
 
 ## 🚀 Live Demo
 
-👉 Add your live project link here:
-
 https://nileshpadalwar.github.io/RandomPassword-Generator/
 
 ---
