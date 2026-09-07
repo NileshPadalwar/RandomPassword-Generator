@@ -127,8 +127,7 @@ function copyPassword(){
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/RandomPassword_Generator.git
-```
+git clone https://github.com/NileshPadalwar/RandomPassword-Generator.git
 
 ### 2. Navigate to the project
 
