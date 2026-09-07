@@ -153,22 +153,7 @@ You can also use **Visual Studio Code with the Live Server extension** for devel
 
 ---
 
-## 🔮 Future Improvements
 
-The project can be enhanced with additional features such as:
-
-* [ ] Custom password length
-* [ ] Include/exclude uppercase letters
-* [ ] Include/exclude lowercase letters
-* [ ] Include/exclude numbers
-* [ ] Include/exclude special characters
-* [ ] Password strength indicator
-* [ ] Copy notification instead of browser alert
-* [ ] Dark/Light mode
-* [ ] Password history
-* [ ] Improved mobile responsiveness
-
----
 
 ## 🎯 Learning Outcomes
 
@@ -194,18 +179,13 @@ Frontend / Angular Developer
 
 ### Connect With Me
 
-* 💼 LinkedIn: Add your LinkedIn profile
-* 🐙 GitHub: Add your GitHub profile
-* 📧 Email: Add your email address
+* 💼 LinkedIn: https://www.linkedin.com/in/nilesh-padalwar/
+* 📧 Email: nileshpadalwar1998@gmail.com
 
 ---
 
-## ⭐ Support
 
-If you found this project useful or interesting, please consider giving the repository a ⭐ on GitHub.
-
----
 
 ## 📄 License
 
-This project is created for learning and portfolio purposes.
+This project is created for learning  purposes.
